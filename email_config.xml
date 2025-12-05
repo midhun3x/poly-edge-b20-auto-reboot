@@ -1,0 +1,8 @@
+<config>
+    <send_if_error>true</send_if_error>
+    <sender>sender@email.com</sender>
+    <password>password</password>
+    <recipient>receiver@email.com</recipient>
+    <smtp_server>mail.server.com</smtp_server>
+    <smtp_port>587</smtp_port>
+</config>
