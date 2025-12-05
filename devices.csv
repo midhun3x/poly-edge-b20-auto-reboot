@@ -1,0 +1,4 @@
+ip,user,password,name
+192.168.1.10,admin,1234,Front Desk
+192.168.1.11,admin,1234,Manager Office
+192.168.1.12,admin,1234,Warehouse Phone
